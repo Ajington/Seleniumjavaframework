@@ -1,0 +1,4 @@
+[INFO ] 2019-05-26 15:20:49.995 [main] log4jdemo - This is info
+[ERROR] 2019-05-26 15:20:50.025 [main] log4jdemo - This is error
+[WARN ] 2019-05-26 15:20:50.025 [main] log4jdemo - This is warn
+[FATAL] 2019-05-26 15:20:50.026 [main] log4jdemo - This is fatal
